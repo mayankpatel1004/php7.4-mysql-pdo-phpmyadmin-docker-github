@@ -1,4 +1,4 @@
-# cloudswift-php-mysql-docker
+# cloudswift-php-mysql-phpmyadmin-docker-github
 PHP MySql PDO Phpmyadmin application for docker container example.
 
 
